@@ -9,7 +9,7 @@ repeat a little quieter and darker. Its controls work like the OP-XY's own
 delay: Size picks the same tempo-synced note lengths, and the send page names
 them the same way. Each side keeps a one-second line in the send slot's
 scratch memory, the same memory the OP-XY's own delay uses, which the effect
-declares as `bufferBytes`; it reads the tempo through `transport` (SDK 1.1).
+declares as `bufferBytes`; it reads the tempo through `transport` (SDK 1.2).
 
 | Control | What it does |
 | --- | --- |
