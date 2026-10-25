@@ -1,5 +1,10 @@
 # Ping Pong
 
+> **Moved.** This machine now lives in
+> [open-xy-core-machines](https://github.com/etcetc000/open-xy-core-machines/tree/main/machines/pingpong),
+> with the rest of Open-XY's own machines, and the catalog builds it from there.
+> This repository is archived and no longer updated.
+
 A ping-pong delay for the OP-XY, built with the
 [Open-XY SDK](https://github.com/etcetc000/open-xy): the example of a send
 effect with delay memory, published through the catalog.
